@@ -4,24 +4,7 @@
 Hadoop BigData Ubuntu  
 
 Contents 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Users 
-
- 
 
 Ubuntu  
 
@@ -43,7 +26,7 @@ Password:- password
 
  
 
-Command 
+### Command 
 
  
 
