@@ -19,3 +19,33 @@
 •hdfs dfs –mkdir  -p /1/2/3/4/5/6/7/8/9
 
 •hdfs dfs –ls /1/2/3/4/5/6/7/8/9/
+
+•hdfs dfs -put /home/ubh01/Desktop/Hadoop/demo.txt /input1
+
+•hdfs dfs -copyFromLocal /home/ubh01/Desktop/Hadoop/demo.txt /input1
+
+•hdfs dfs -copyFromLocal /home/ubh01/Desktop/Hadoop/demo.txt /input2
+
+•hadoop fs -mkdir /demo1
+
+•hadoop fs -mkdir /demo2
+
+•hadoop fs -put /home/ubh01/Desktop/Hadoop/demo.txt /demo1
+
+•hadoop fs -copyFromLocal /home/ubh01/Desktop/Hadoop/demo.txt /demo2
+
+•hdfs dfs -ls /input1
+
+•hdfs dfs -ls /input2
+
+•hdfs dfs -ls /demo1
+
+•hdfs dfs -ls /demo2
+
+•hdfs dfs -cat /input1/demo.txt
+
+•hdfs dfs -cat /input2/demo.txt
+
+•hdfs dfs -cat /demo1/demo.txt
+
+•hdfs dfs -cat /demo2/demo.txt
