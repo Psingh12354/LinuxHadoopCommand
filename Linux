@@ -49,3 +49,19 @@
 •hdfs dfs -cat /demo1/demo.txt
 
 •hdfs dfs -cat /demo2/demo.txt
+
+•Put/copyFromLocal
+
+•Hdfs dfs –put source_file_location destination_folder_location
+
+•Sourcelocation -> local_file_system
+
+•Destination -> HDFS folder Location
+
+•Get/copyToLocal
+
+•Hdfs dfs –get destinationfilelocation sourcefolderlocation
+
+•Sourcelocation -> localfolder system
+
+•Destination -> HDFS file lo
