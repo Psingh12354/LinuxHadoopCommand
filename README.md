@@ -1,5 +1,5 @@
 # LinuxHadoopCommand
-
+```
 Hadoop File System Commands
 
 Syntax Overview
@@ -49,3 +49,4 @@ $ hadoop fs -count /test
 
 Getting Help
 $hadoop fs -help
+```
