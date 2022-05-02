@@ -1,0 +1,21 @@
+•hdfs dfs –ls /
+
+•hdfs dfs –mkdir /karthick
+
+•hdfs dfs –mkdir /selvam
+
+•hdfs dfs – rm /karthick
+
+•hdfs dfs –rm /selvam
+
+•hdfs dfs –mkdir /karthick
+
+•hdfs dfs –mkdir /karthick/selvam
+
+•hdfs dfs –rmdir /karthick
+
+•hdfs dfs –rm -rvf /karthick
+
+•hdfs dfs –mkdir  -p /1/2/3/4/5/6/7/8/9
+
+•hdfs dfs –ls /1/2/3/4/5/6/7/8/9/
